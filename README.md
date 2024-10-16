@@ -11,9 +11,13 @@
 - ⚡ Fun fact: **Best part of the journey is: *It Ends*.**
 
 <p align="center">
-   •
-  <a href="https://user-badge.committers.top/india_private/firas-dahmani"><img src="https://user-badge.committers.top/india_private/firas-dahmani.svg"><img src="https://gpvc.arturio.dev/firas-dahmani" alt="Profile Views"></a> •
-  <a href="https://github.com/sponsors/firas-dahmani"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
+  <img src="https://gpvc.arturio.dev/firas-dahmani" alt="Profile Views"> 
+  •<a href="https://user-badge.committers.top/india_private/firas-dahmani">
+    <img src="https://user-badge.committers.top/india_private/firas-dahmani.svg">
+  </a> 
+  •<a href="https://github.com/sponsors/firas-dahmani">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/>
+  </a>
 </p>
 
 ### Languages and Tools:
@@ -42,7 +46,7 @@
 
 <h4 align="center">
   
-diff
+<pre>
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -62,7 +66,7 @@ diff
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-
+</pre>
 
 </h4>
 
