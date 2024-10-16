@@ -11,8 +11,8 @@
 - ⚡ Fun fact: **Best part of the journey is: *It Ends*.**
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/firas-dahmani" alt="Profile Views"> •
-  <a href="https://user-badge.committers.top/india_private/firas-dahmani"><img src="https://user-badge.committers.top/india_private/firas-dahmani.svg"></a> •
+   •
+  <a href="https://user-badge.committers.top/india_private/firas-dahmani"><img src="https://user-badge.committers.top/india_private/firas-dahmani.svg"><img src="https://gpvc.arturio.dev/firas-dahmani" alt="Profile Views"></a> •
   <a href="https://github.com/sponsors/firas-dahmani"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
@@ -40,27 +40,29 @@
 
 ---
 
-<p align="center">
-  <pre>
-  @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @
-@@        o o                                          @@
-@@        | |                                          @@
-@@       _L_L_                                         @@
-@@ ❮\/__-__\/❯ Programming isn't about what you know  @@
-@@ ❮(|~o.o~|)❯ It's about what you can figure out      @@
-@@ ❮/ \-'/ \❯                                         @@
-@@    _/U'\_                                          @@
-@@    ( .   . )   .----------------------------.      @@
-@@   / /     \ \  | while( ! (succeed=try() ) ) |      @@
-@@   \ | ,   | /  '----------------------------'      @@
-@@    \|=====|/                                        @@
-@@     |_."._|                                        @@
-@@     | |"| |                                        @@
-@@     ( ) ( ) Testing leads to failure               @@
-@@     |_| |_| and failure leads to understanding     @@
-@@ _.-' _j L_ '-._                                    @@
-@@(___.'     '.___)                                   @@
-@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @
-  </pre>
-</p>
+<h4 align="center">
+  
+diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+
+
+</h4>
 
